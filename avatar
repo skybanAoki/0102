@@ -1,1 +1,9 @@
+mkdir ezra-signature-assets
+cd ezra-signature-assets
 
+# 把你的图片放到这个文件夹：
+# - logo.png       （公司 Logo）
+# - avatar.png     （头像 Quincy.png 重命名）
+# - insta-color.png
+# - fb-color.png
+# - linkedin-color.png
